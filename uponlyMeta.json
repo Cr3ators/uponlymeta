@@ -1,6 +1,7 @@
 {
-  "name": "uponly",
-  "symbol": "uponly",
-  "description": "$uponly if you can hold more than 20min. @uponlysolana",
-  "image": "https://cdn.discordapp.com/attachments/896444629896024145/1104352779838951464/Captura_de_Pantalla_2023-05-06_a_las_10.11.34.png"
+"name": "uponly",
+"seller_fee_basis_points": 550,
+"symbol": "uponly",
+"description": "$uponly if you can hold more than 20min. @uponlysolana",
+"image": "https://cdn.discordapp.com/attachments/896444629896024145/1104352779838951464/Captura_de_Pantalla_2023-05-06_a_las_10.11.34.png"
 }
